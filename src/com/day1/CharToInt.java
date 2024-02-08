@@ -1,0 +1,13 @@
+package com.day1;
+
+public class CharToInt {
+    public static void main(String[] args){
+        char a = '9';
+        char b='c';
+        int num1=a;
+        int num2=b;
+        System.out.println(num1);
+        System.out.println(num2);
+
+    }
+}
